@@ -1,4 +1,5 @@
 # Visual Analysis of the [Customer Shopping](https://www.kaggle.com/datasets/bhadramohit/customer-shopping-latest-trends-dataset/data) Latest Trends Dataset
+## Visuals made using Tableau Public
 
 
 The client wants to establish a online storefront, as well as run a successful ad campaign. In this analysis, we will determine the following:
