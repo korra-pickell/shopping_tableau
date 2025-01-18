@@ -11,35 +11,35 @@ The client wants to establish a online storefront, as well as run a successful a
 
 First, let's analyze which U.S. state we should target with ads. Our initial idea is to look at where the most expensive purchases on average are coming from.
 
-IMAGE ONE
+![IMAGE ONE](https://github.com/korra-pickell/shopping_tableau/blob/master/shop_1.png)
 
 It looks like Arizona and Pennsylvania stand out as the states in which the most expensive purchases on average are coming from. Let's see if there is any geographical correlation between these areas:
 
-IMAGE TWO
+![IMAGE TWO](https://github.com/korra-pickell/shopping_tableau/blob/master/shop_2.png)
 
 It appears that there is no geographical correlation between states with the most expensive purchases on average. This is a good insight, but doesn't help us determine any of our key points. Let's regroup.
 
 Upon further review of our data and it's structure, we've determined that avg. purchase amount may not necessarily indicated where the most money to be made is. Let's take a look at a different metric: Total Sales. This accounts for the fact that a large amount of smaller purchases can overtake the importance of a few expensive purchases.
 
-IMAGE THREE
+![IMAGE THREE](https://github.com/korra-pickell/shopping_tableau/blob/master/shop_3.png)
 
 It looks like Montana is the state that has the highest Total Sales in the U.S.. Montana is the state where the consumers are willing to spend the most amount of money on goods. Therefore, our ad campaign is likely to be more successful if advertised to people in Montana.
 
 Next, let's see which time of the year would be beneficial to run ads during.
 
-IMAGE FOUR
+![IMAGE FOUR](https://github.com/korra-pickell/shopping_tableau/blob/master/shop_4.png)
 
 Wintertime is the season during which the most amount of money is being spent by consumers in Montana. This might be caused by the presence of the holiday season. We can conclude that the best time of year to run ads for the storefront is during the winter.
 
 Let's get an idea of what consumers in Montana are buying during the winter:
 
-IMAGE FIVE
+![IMAGE FIVE](https://github.com/korra-pickell/shopping_tableau/blob/master/shop_5.png)
 
 It appears that consumers in Montana are focusing their purchasing power on clothing during the winter season. It would be a good idea to make sure that we have clothing, as well as an assortment of accessories available in the storefront.
 
 Lastly, let's visit how we can help customers feel comfortable buying items in our storefront. One way we could do this is by ensuring that we have the consumer's primary method of payment available.
 
-IMAGE SIX
+![IMAGE SIX](https://github.com/korra-pickell/shopping_tableau/blob/master/shop_6.png)
 
 By far, Bank Transfer is the primary method of payment by consumers in Montana, during the winter season. It would be wise to include a Bank Transfer functionality on the storefront. This might help customers feel inclined to complete their purchases.
 
